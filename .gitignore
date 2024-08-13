@@ -1,1 +1,7 @@
 node_modules
+# Ignorar arquivos temporários
+*.temp
+#Ignorar Logs
+*.log
+#Ignorar Configurações de Ambiente
+*.env
